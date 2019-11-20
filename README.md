@@ -22,7 +22,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
  
  <img width="1133" alt="movie-this (input)" src="https://user-images.githubusercontent.com/53976941/69199660-a722b380-0b06-11ea-839b-285a04adb04c.png">
  
- Using OMDB API If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+ * Using OMDB API If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
  
  <img width="1136" alt="movie-this(no user input)" src="https://user-images.githubusercontent.com/53976941/69199729-de916000-0b06-11ea-98da-8363f736b601.png">
 
