@@ -30,6 +30,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
  * Lastly, if the user uses the do-what-it-says command Liri will use the fs Node package, take the text inside of random.txt and then use it to call one of LIRI's commands.
  
- <img width="632" alt="do-what-it-says" src="https://user-images.githubusercontent.com/53976941/69199743-ed781280-0b06-11ea-93cd-33496b97c97c.png">
+<img width="893" alt="do what it says" src="https://user-images.githubusercontent.com/53976941/73748663-e933bc80-4727-11ea-88c7-f86721a8e147.png">
+
 
 
