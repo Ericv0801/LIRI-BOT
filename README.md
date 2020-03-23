@@ -4,6 +4,8 @@
 
 LIRI is a backend app that allows its users to retrieve data using different API's such as Bands in Town, Spotify, and OMDB.
 
+## Instructions
+
 ## Features
 
  * Using axios, the user can use the Bands in Town API to retrieve the dates and locations for an artists upcoming concerts.
