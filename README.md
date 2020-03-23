@@ -7,7 +7,7 @@ LIRI is a backend app that allows its users to retrieve data using different API
 ## Instructions
 While in the directory of liri.js, use the command line to type a search term as follows:
 
-(example) node liri concert-this
+(example) node liri concert-this Lady
 
 First type node liri then type an operator your choices are:
 
