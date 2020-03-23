@@ -29,6 +29,24 @@ LiriBot uses NodeJS and the following npm packages:
 * Axios
 * Node-Spotify-API
 
+You will need a `.env` file with this content
+```
+# Spotify API keys
+
+SPOTIFY_ID=your-spotify-id
+SPOTIFY_SECRET=your-spoitfy-secret
+
+
+# Bands in town App ID
+
+BANDSINTOWN_ID=your-bands-in-town-id
+
+
+# OMDB key
+
+OMDB_KEY=your-omdb-key
+```
+
 ## Features
 
  * Using axios, the user can use the Bands in Town API to retrieve the dates and locations for an artists upcoming concerts.
