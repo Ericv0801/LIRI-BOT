@@ -11,13 +11,13 @@ While in the directory of liri.js, use the command line to type a search term as
 
 First type node liri then type an operator your choices are:
 
-*concert-this
+* concert-this
 
-*spotify-this-song
+* spotify-this-song
 
-*movie-this
+* movie-this
 
-*do-what-it-says
+* do-what-it-says
 
 finally type a search term
 
