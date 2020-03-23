@@ -58,4 +58,8 @@ LiriBot uses NodeJS and the following npm packages:
 <img width="893" alt="do what it says" src="https://user-images.githubusercontent.com/53976941/73748663-e933bc80-4727-11ea-88c7-f86721a8e147.png">
 
 
+## Authors 
+
+- Eric Max Valdivia
+
 
