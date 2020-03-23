@@ -21,6 +21,14 @@ First type node liri then type an operator your choices are:
 
 finally type a search term
 
+## Requirements
+LiriBot uses NodeJS and the following npm packages:
+
+* DotEnv
+* Moment
+* Axios
+* Node-Spotify-API
+
 ## Features
 
  * Using axios, the user can use the Bands in Town API to retrieve the dates and locations for an artists upcoming concerts.
