@@ -5,6 +5,17 @@
 LIRI is a backend app that allows its users to retrieve data using different API's such as Bands in Town, Spotify, and OMDB.
 
 ## Instructions
+While in the directory of liri.js, use the command line to type a search term as follows:
+
+(example) node liri movie-this toy story
+
+First type node liri then type an operator your choices are:
+
+concert-this
+spotify-this-song
+movie-this
+do-what-it-says
+finally type a search term
 
 ## Features
 
