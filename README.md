@@ -2,7 +2,7 @@
 
 ## Overview
 
-LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+LIRI is a backend app that allows its users to retrieve data using different API's such as Bands in Town, Spotify, and OMDB.
 
 ## Features
 
