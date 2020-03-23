@@ -17,6 +17,8 @@ spotify-this-song
 
 movie-this
 
+do-what-it-says
+
 finally type a search term
 
 ## Features
