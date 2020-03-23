@@ -78,6 +78,6 @@ OMDB_KEY=your-omdb-key
 
 ## Authors 
 
-- Eric Max Valdivia
+- Eric Max Valdivia - https://github.com/Ericv0801
 
 
